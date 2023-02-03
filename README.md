@@ -1,5 +1,5 @@
 # HelloWorld
-Sorridas's first repositoryt 
+Sorridas's first repository
 I will continue to strive to learning DeepLearning
 thanks
 thanks again
